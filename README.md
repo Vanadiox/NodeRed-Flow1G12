@@ -124,5 +124,6 @@ Haga clic y de clic en _Deploy_ para guardar cambios.
 ## Créditos: 
 
 [Manual realizado por Vanadiox (Kevin H)](https://github.com/Vanadiox)
+
 [Referencias por Código IoT](https://github.com/codigo-iot)
 
