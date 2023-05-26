@@ -107,6 +107,8 @@ Para finalizar, vuelva a dar click en "Deploy" y en automático se verán los me
 
 ![Imagen 8](https://raw.githubusercontent.com/Vanadiox/NodeRed-Flow1G12/main/imgs/8.png)
 
+# Detener el proyecto
+
 Si desea detener el proyecto, en la misma cinta donde está el ícono del bicho, vaya a la (i). Localice el _flow_ donde está trabajando (En este caso el flow1) y verá dos íconos: un ojo y un círculo. Si deja el cursor sobre el círculo, aparecerá un texto que dice "Disable". 
 
 ![Imagen 9](https://raw.githubusercontent.com/Vanadiox/NodeRed-Flow1G12/main/imgs/9.png)
