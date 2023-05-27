@@ -45,6 +45,8 @@ En esta práctica se realizará la demostracion de _flows_ utilizando NodeRed mo
 
 ## Inicialización de Docker. 
 
+Antes que nada, agregue su usuario al grupo de Docker siguiendo [este tutorial](https://docs.docker.com/engine/install/linux-postinstall/). Una vez finalizado, reinicie su equipo (en caso de haber hecho esto en hardware real) o máquina virtual. 
+
 Entre a la carpeta _~DockerCompose_ y abra una terminal ahí. Una vez abierta, ejecute lo siguiente: 
 
         docker compose up -d
